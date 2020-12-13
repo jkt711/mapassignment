@@ -1,0 +1,26 @@
+body {
+  background-color: floralwhite;
+}
+
+#anamap {max-width: 100%;}
+
+#body {text-align: center;
+       width: 900px;
+       margin: 0 auto;
+       background-color: white;
+   	   padding: 10px}
+
+ h1 {text-align: center;
+ 	background-color: white;
+   	padding: 10px}
+
+ #byline {text-align: center;}
+
+#photo {text-align: center;
+	    padding-top: 10px;
+	    padding-left: 10px;
+	    padding-bottom: 10px;
+	    padding-right: 10px;}
+
+#caption {text-align: center;} 
+
